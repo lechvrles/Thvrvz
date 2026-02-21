@@ -3,7 +3,7 @@ import type { ThemeConfig } from './types'
 export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
-    website: 'https://chiri.the3ash.com/', // Site domain
+    website: 'https://thvrvz.vercel.app/', // Site domain
     title: 'Thvrvz', // Site title
     author: 'Arshvm', // Author name
     description: 'Minimal blog built Arshvm', // Site description
