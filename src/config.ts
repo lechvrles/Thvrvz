@@ -4,7 +4,7 @@ export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
     website: 'https://thvrvz.vercel.app/', // Site domain
-    title: 'Thvrvz', // Site title
+    title: '</>', // Site title
     author: 'Arshvm', // Author name
     description: 'Minimal blog built Arshvm', // Site description
     language: 'en-US' // Default language

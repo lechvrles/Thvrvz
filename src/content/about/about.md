@@ -7,10 +7,6 @@ This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->
 
-## about yourself
+## Arsham.H.Firouziyan 
 
----
-title: 'Arsham.H.Firouziyan'
----
-
-EES | Python Software developer | junior designer 
+EES, Python Software developer, Junior designer 
