@@ -16,11 +16,7 @@ title: 'About'
 
 ## contact 
 
-![GITHUB]
+![GITHUB]::github{repo="https://github.com/lechvrles"}
 
-::github{repo="https://github.com/lechvrles"}
-
-![X]
-
-::x{url=""}
+![X]::x{url=""}
 
