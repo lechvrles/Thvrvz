@@ -17,6 +17,9 @@ title: 'About'
 ## contact 
 
 - [Github](https://github.com/lechvrles)
-_ <a href="mailto:lechvrles@gmail.com">Email</a>
+
+- <a href="mailto:lechvrles@gmail.com">Email</a>
+
+::github{repo="the3ash/astro-chiri"}
 
 
