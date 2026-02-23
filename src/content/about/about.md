@@ -2,7 +2,25 @@
 title: 'About'
 ---
 
-> _<h1>Talk is cheap, show Me the code</h1>_
+
+<h1>EES, python software Dev and junior designer. Cybersecurity specialist working for freedom of Internet</h1> 
 
 
-زِ هَر خونِ دِلی سَروی قد اَفراشت 
+> _Talk is cheap, show Me the code_
+
+---
+
+## About _me_
+
+## projects 
+
+## contact 
+
+![GITHUB]
+
+::github{repo="https://github.com/lechvrles"}
+
+![X]
+
+::x{url=""}
+
