@@ -4,7 +4,7 @@ export const themeConfig: ThemeConfig = {
   // SITE INFO ///////////////////////////////////////////////////////////////////////////////////////////
   site: {
     website: 'https://thvrvz.vercel.app/', // Site domain
-    title: 'Arshvm', // Site title
+    title: 'Arsham Firouziyan', // Site title
     author: 'Arshvm', // Author name
     description: 'Minimal blog built Arshvm', // Site description
     language: 'en-US' // Default language
@@ -14,7 +14,7 @@ export const themeConfig: ThemeConfig = {
   general: {
     contentWidth: '35rem', // Content area width
     centeredLayout: true, // Use centered layout (false for left-aligned)
-    themeToggle: false, // Show theme toggle button (uses system theme by default)
+    themeToggle: true, // Show theme toggle button (uses system theme by default)
     postListDottedDivider: false, // Show dotted divider in post list
     footer: true, // Show footer
     fadeAnimation: true // Enable fade animations
