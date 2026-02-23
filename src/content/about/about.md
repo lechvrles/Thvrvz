@@ -3,24 +3,19 @@ title: 'About'
 ---
 
 
-<h1>EES, python software Dev and junior designer. Cybersecurity specialist working for freedom of Internet</h1> 
+<h2>EES, python software Dev and junior designer. Cybersecurity specialist working for freedom of Internet</h2> 
 
 
 > _Talk is cheap, show Me the code_
 
 ---
 
-## About _me_
+_<h1>About Me</h1>_
 
 ## projects 
 
 ## contact 
 
-[Github](https://github.com/lechvrles)
+[Github](https://github.com/lechvrles) / [Email](lechvrles@duck.com)
 
-[Email](lechvrles@duck.com)
-
-[LinkedIn]
-
-[X]
 
