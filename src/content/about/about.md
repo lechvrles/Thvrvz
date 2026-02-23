@@ -16,10 +16,10 @@ title: 'About'
 
 ## contact 
 
-- [Github](https://github.com/lechvrles)    // My personal account available now 
+- [Github](https://github.com/lechvrles)
 
-- <a href="mailto:lechvrles@gmail.com">Email</a>  // Email me 
+- <a href="mailto:lechvrles@gmail.com">Email</a> // Email me 
 
 
-
+// Site Info    
 
