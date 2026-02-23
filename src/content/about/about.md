@@ -14,12 +14,10 @@ title: 'About'
 
 ## projects 
 
-## contact 
+<h2>contact</h2>
+
 
 - [Github](https://github.com/lechvrles)
 
-- <a href="mailto:lechvrles@gmail.com">Email</a> // Email me 
-
-
-// Site Info    
+- <a href="mailto:lechvrles@gmail.com">Email</a>  
 
