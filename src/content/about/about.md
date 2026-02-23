@@ -16,7 +16,11 @@ title: 'About'
 
 ## contact 
 
-![GITHUB]::github{repo="https://github.com/lechvrles"}
+[Github](https://github.com/lechvrles)
 
-![X]::x{url=""}
+[Email](lechvrles@duck.com)
+
+[LinkedIn]
+
+[X]
 
