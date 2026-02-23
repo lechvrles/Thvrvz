@@ -16,10 +16,10 @@ title: 'About'
 
 ## contact 
 
-- [Github](https://github.com/lechvrles)
+- [Github](https://github.com/lechvrles) //My personal account available now 
 
-- <a href="mailto:lechvrles@gmail.com">Email</a>
+- <a href="mailto:lechvrles@gmail.com">Email</a> //Email me 
 
-::github{repo="the3ash/astro-chiri"}
+
 
 
