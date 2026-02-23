@@ -10,12 +10,13 @@ title: 'About'
 
 ---
 
-_<h1>About Me</h1>_
+<h1>About me</h1>
 
 ## projects 
 
 ## contact 
 
-[Github](https://github.com/lechvrles) / [Email](lechvrles@duck.com)
+- [Github](https://github.com/lechvrles)
+_ <a href="mailto:lechvrles@gmail.com">Email</a>
 
 
