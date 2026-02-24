@@ -10,11 +10,14 @@ title: 'About'
 
 ---
 
-<h1>About me</h1>
+## About me
+
+___
 
 ## projects 
+___
 
-<h2>contact</h2>
+## contact
 
 
 - [Github](https://github.com/lechvrles)
