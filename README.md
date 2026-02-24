@@ -1,11 +1,11 @@
-# Chiri 🌸
+# Thvrvz 
 
 ![screenshot-light](public/screenshots/screenshot-light.png)
 ![screenshot-dark](public/screenshots/screenshot-dark.png)
 
-Chiri is a minimal blog theme built with [Astro](https://astro.build), offering customization options while preserving its clean aesthetic.
+Thvrvz is a minimal blog theme built with [Astro](https://astro.build), offering customization options while preserving its clean aesthetic.
 
-Check the [demo](https://chiri.the3ash.com/) for more details.
+Check the main [theme](https://chiri.the3ash.com/) for more details.
 
 ## Features
 
@@ -53,10 +53,7 @@ Check the [demo](https://chiri.the3ash.com/) for more details.
 
 ## References
 
-- https://paco.me/
-- https://benji.org/
-- https://shud.in/
-- https://retypeset.radishzz.cc/
+- [Chiri](https://astro.build/themes/details/chiri/) blog theme
 
 ## License
 
