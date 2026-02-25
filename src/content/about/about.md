@@ -3,7 +3,7 @@ title: 'About'
 ---
 
 
-<h2>EES, python software Dev and junior designer. Cybersecurity specialist working for freedom of Internet</h2> 
+<h2>EES, python software Dev and junior designer.Working for freedom of Internet</h2> 
 
 
 > _Talk is cheap, show Me the code_
@@ -13,10 +13,10 @@ title: 'About'
 ## About me
 
 ___
+## projects
 
-## projects 
+
 ___
-
 ## contact
 
 
