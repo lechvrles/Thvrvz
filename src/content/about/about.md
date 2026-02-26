@@ -11,10 +11,10 @@ title: 'About'
 ---
 
 ## **About me**
-Hi there 👋🏻
+# Hi there 👋🏻
 I'm Arsham, a Python developer and an enthusiastic geek, passionate to ethical hacking and network security. I'm eager to collaborate on cloud-related projects.
 
-> Interests: _Astronomy, Mythology, Reggaeton, Chess, Iranian culture & art, Classic music & cars, Linux, F1_
+> **Interests**: _Astronomy, Mythology, Reggaeton, Chess, Iranian culture & art, Classic music & cars, Linux, F1_
 ___
 ## **Experiences**
 - Junior Designer,[Part](https://part.institute/) ` 2025 `
