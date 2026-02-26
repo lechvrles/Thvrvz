@@ -6,7 +6,7 @@ export const themeConfig: ThemeConfig = {
     website: 'https://thvrvz.vercel.app/', // Site domain
     title: 'Arsham Firouzian', // Site title
     author: 'Arshvm', // Author name
-    description: 'Minimal blog built Arshvm', // Site description
+    description: 'Minimal blog built by Arshvm', // Site description
     language: 'en-US' // Default language
   },
 
