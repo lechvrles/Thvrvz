@@ -10,21 +10,23 @@ title: 'About'
 
 ---
 
-**## About me**
-### Hi there :wave:
-I'm Arsham,Python developer. Passionate about creating innovative tools and services, with a keen interest in collaborating on SaaS projects
-___
-**## Experiences**
-- Junior Designer,[Part](https://part.institute/) pubDate: '2025-06-28'
-- Python software Dev,Freelancer 
+**About me**
+### Hi there 👋🏻
+I'm Arsham, a Python developer and an enthusiastic geek, passionate to ethical hacking and network security. I'm eager to collaborate on cloud-related projects.
 
-
-<Callout />
+Skill: 
+Interests: 
 ___
-**## contact**
+**Experiences**
+- Junior Designer,[Part](https://part.institute/) `2025`
+- Python software Dev,Freelancer `since 2022`
+
+___
+**contact**
 
 
 - [Github](https://github.com/lechvrles)
 
 - <a href="mailto:lechvrles@gmail.com">Email</a>  
 
+<Callout />
