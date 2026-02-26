@@ -10,14 +10,18 @@ title: 'About'
 
 ---
 
-## About me
-
+**## About me**
+### Hi there :wave:
+I'm Arsham,Python developer. Passionate about creating innovative tools and services, with a keen interest in collaborating on SaaS projects
 ___
-## projects
+**## Experiences**
+- Junior Designer,[Part](https://part.institute/) pubDate: '2025-06-28'
+- Python software Dev,Freelancer 
 
 
+<Callout />
 ___
-## contact
+**## contact**
 
 
 - [Github](https://github.com/lechvrles)
